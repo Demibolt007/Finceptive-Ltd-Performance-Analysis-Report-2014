@@ -59,9 +59,9 @@ Nancy’s performance underscores the impact of a strong sales strategy and cust
 
 While 2014 was a successful year, a few areas require attention:
 
-Sales Fluctuations – The variance in monthly revenue highlights the need for a more balanced sales strategy to maintain steady performance throughout the year.
-Underperforming Regions – The Western and Southern regions remain largely untapped markets, requiring targeted expansion efforts.
-Customer Retention – While our top clients contributed significantly to revenue, diversifying our customer base will reduce dependency on a few key accounts.
+1. Sales Fluctuations – The variance in monthly revenue highlights the need for a more balanced sales strategy to maintain steady performance throughout the year.
+2. Underperforming Regions – The Western and Southern regions remain largely untapped markets, requiring targeted expansion efforts.
+3. Customer Retention – While our top clients contributed significantly to revenue, diversifying our customer base will reduce dependency on a few key accounts.
 
 **Outlook for 2015**
 
