@@ -52,6 +52,9 @@ Other top contributors included:
 
 Nancy’s performance underscores the impact of a strong sales strategy and customer relationship management. Investing in training and incentive programs for other team members could help replicate her success across the sales department.
 
+![TASK 13A - Adeniyi Oluwademilade Adedamola](https://github.com/user-attachments/assets/c4326e43-29ca-4683-a00a-d155da55a7c4)
+
+
 **Challenges and Areas for Improvement**
 
 While 2014 was a successful year, a few areas require attention:
@@ -68,6 +71,6 @@ To build on our successes, Finceptive Ltd. should focus on the following strateg
 2. Optimizing product distribution to ensure high-demand categories remain well-stocked, especially during peak seasons.
 3. Expanding market presence in the Western and Southern regions through targeted sales campaigns and localized promotions.
 4. Leveraging data analytics to predict sales trends and make informed business decisions.
-5. 
+
 By implementing these strategies, Finceptive Ltd. is well-positioned for even greater success in the coming year.
 
