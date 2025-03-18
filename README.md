@@ -43,9 +43,10 @@ The top-performing salesperson of the year was Nancy Freehafer, with total sales
 
 Other top contributors included:
 
-Andrew Cenc ($57,130.50)
-Mariya Sergienko ($42,970.00)
-Laura Giussani ($41,095.02)
+1. Andrew Cenc ($57,130.50)
+2. Mariya Sergienko ($42,970.00)
+3. Laura Giussani ($41,095.02)
+
 Nancy’s performance underscores the impact of a strong sales strategy and customer relationship management. Investing in training and incentive programs for other team members could help replicate her success across the sales department.
 
 **Challenges and Areas for Improvement**
@@ -58,9 +59,10 @@ Customer Retention – While our top clients contributed significantly to revenu
 **Outlook for 2015**
 To build on our successes, Finceptive Ltd. should focus on the following strategies:
 
-Strengthening customer relationships through personalized engagement and loyalty programs.
-Optimizing product distribution to ensure high-demand categories remain well-stocked, especially during peak seasons.
-Expanding market presence in the Western and Southern regions through targeted sales campaigns and localized promotions.
-Leveraging data analytics to predict sales trends and make informed business decisions.
+1. Strengthening customer relationships through personalized engagement and loyalty programs.
+2. Optimizing product distribution to ensure high-demand categories remain well-stocked, especially during peak seasons.
+3. Expanding market presence in the Western and Southern regions through targeted sales campaigns and localized promotions.
+4. Leveraging data analytics to predict sales trends and make informed business decisions.
+5. 
 By implementing these strategies, Finceptive Ltd. is well-positioned for even greater success in the coming year.
 
