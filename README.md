@@ -1,3 +1,5 @@
+**Finceptive Ltd. Performance Analysis Report 2014**
+
 **Executive Summary**
 
 The year 2014 was a period of strong sales performance for Finceptive Ltd., with a total revenue of $435,056.16. The company's growth was largely driven by Company D, our best-performing client, and the remarkable efforts of Nancy Freehafer, our top salesperson. The Northern Region emerged as the most profitable, with New York leading as the top shipping city. Beverages continued to dominate as the highest-selling product category.
